@@ -29,6 +29,6 @@ mvn clean package
 #### 运行
 ```
 cd target
-//指定代理服务器端口9999
+器端口9999
 java -jar  proxyee-down-1.0-SNAPSHOT.jar 9999
 ```
